@@ -1,0 +1,86 @@
+{
+    "smuggler": [
+      {
+        "id": 1,
+        "nombre": "Jorj Car'das",
+        "vessel": "Bargain Hunter",
+        "planet": "Corellia",
+        "img": "./assets/images/jorj.jpg",
+        "description": {
+            "esp": "Jorj Car'das era un humano de Corellia que vivió durante la época de la República Galáctica, el Imperio Galáctico y la Nueva República. Al principio de su vida, Car'das se unió a la tripulación de la nave contrabandista Bargain Hunter, trabajando principalmente como traficante para los hutts. En el 27 ABY Car'das y sus compañeros Dubrak Qennto y Maris Ferasi se convirtieron en los cautivos del comandante Thrawn de la Fuerza de Defensa Expansionaria Chiss. Thrawn deseaba que los contrabandistas le enseñaran el idioma de la República, y ellos permanecieron en su base en Crustai por varias semanas, enseñándole Básico Galáctico Estándar y aprendiendo el idioma chiss, cheuhn. Car'das ayudó a Thrawn a derrotar a los alienígenas vagaari, antes de que se le permitiera regresar a la República.",
+            "eng":"Jorj Car'das was a Human from Corellia who lived during the time of the Galactic Republic, the Galactic Empire, and the New Republic. Early in his life, Car'das joined the crew of the smuggler ship Bargain Hunter, working primarily as a smuggler for the Hutts. In 27 BBY Car'das and his companions Dubrak Qennto and Maris Ferasi became the captives of Commander Thrawn of the Chiss Expansionary Defense Force. Thrawn wanted the smugglers to teach him the language of the Republic, and they stayed at his base on Crustai for several weeks, teaching him Galactic Standard Basic and learning the Chiss language, cheuhn. Car'das helped Thrawn defeat the Vagaari aliens, before he was allowed to return to the Republic."
+    }},
+      {
+        "id": 2,
+        "nombre": "Lando Calrissian",
+        "vessel": "Millennium Falcon",
+        "planet": "Soccorro",
+        "img": "./assets/images/lando-calrissian.jpg",
+        "description": {
+            "esp": "Lando Calrissian era un humano que en diferentes momentos de su vida fue un apostador profesional, empresario, contrabandista y general. Natal de Socorro, se convirtió en apostador y estafador en sus primeros años de vida, eventualmente ganando su propia nave, el Halcón Milenario, en un juego de sabacc a un hombre llamado Cix Trouvee. Tuvo muchas aventuras con el Halcón y su droide piloto, Vuffi Raa, y en ellas se enemistó con un Hechicero de Tund llamado Rokur Gepta, a quien Calrissian terminó dando muerte. Después de que una serie de sucesos resultaran en que perdiera el Halcón Milenario ante un corelliano llamado Han Solo en Bespin, Calrissian acabó convirtiéndose en Barón Administrador de la Ciudad de las Nubes por un tiempo—cargo que también adquirió jugando sabacc.",
+            "eng":"Lando Calrissian was a human who at different points in his life was a professional gambler, businessman, bootlegger, and general. A native of Socorro, he became a gambler and con man in his early life, eventually winning his own ship, the Millennium Falcon, in a game of sabacc from a man named Cix Trouvee. He had many adventures with the Falcon and its pilot droid, Vuffi Raa, and in them he fell out with a Wizard of Tund named Rokur Gepta, whom Calrissian ended up killing. After a series of events resulted in him losing the Millennium Falcon to a Corellian named Han Solo on Bespin, Calrissian ended up becoming Baron Steward of Cloud City for a time—a position he also acquired by playing sabacc."
+    }},
+      {
+        "id": 3,
+        "nombre": "Vilmarh Grahrk",
+        "vessel": "Inferno",
+        "planet": "Devaron",
+        "img": "./assets/images/vilmarh.jpg",
+        "description": {
+            "esp": "Vilmarh Grahrk o también conocido como Villie, fue un contrabandista devaroniano durante los últimos días de la República Galáctica y los primeros días del Imperio Galáctico. Un notorio jugador, estafador y sinvergüenza, Villie se caracterizó por realizar actos deshonestos y secretos en su búsqueda de dinero y mujeres.",
+            "eng":"Vilmarh Grahrk or also known as Villie, was a Devaronian smuggler during the last days of the Galactic Republic and the early days of the Galactic Empire. A notorious gambler, swindler, and scoundrel, Villie was noted for engaging in dishonest and secret acts in his pursuit of money and women."
+    }}
+    ],
+    "vessel": [
+      {
+        "id": 1, 
+        "name": "Bargain Hunter", 
+        "img": "./assets/images/bargain-hunter.jpg",
+        "description": {
+        "esp": "The Bargain Hunter was a light freighter owned by Dubrak Qennto and crewed by Maris Ferasi and Jorj Car'das. It was able to go for between 600 and 650 hours at sublight before needing to refuel, and it was equipped with lasers and missiles. Progga the Hutt chased the Hunter and its crew into the Unknown Regions because he wanted the cargo that they were taking to Drixo the Hutt. Commander Thrawn of the Chiss Ascendancy intercepted them with three fighters and the Springhawk. He destroyed Progga's starship in a 6 minute skirmish, after disabling the Bargain Hunter with a ship-sized conner net.",
+        "eng": "El Bargain Hunter era un carguero ligero propiedad de Dubrak Qennto y tripulado por Maris Ferasi y Jorj Car'das. Pudo funcionar entre 600 y 650 horas en subluz antes de necesitar repostar, y estaba equipado con láseres y misiles. Progga the Hutt persiguió al Cazador y su tripulación a las Regiones Desconocidas porque quería el cargamento que llevaban a Drixo the Hutt. El Comandante Thrawn de la Ascendencia Chiss los interceptó con tres cazas y el Springhawk. Destruyó la nave estelar de Progga en una escaramuza de 6 minutos, después de desactivar el Cazador de gangas con una red de conexión del tamaño de una nave."
+    }},
+      {
+        "id": 2, 
+        "name": "Millenium Falcon", 
+        "img": "./assets/images/millennium_falcon.jpg",
+        "description":{
+            "esp": "The Millennium Falcon was a Corellian YT-1300 light freighter used by smugglers Han Solo and Chewbacca during the Galactic Civil War. Its aged appearance belied numerous advanced modifications to increase the ship's speed, weapons, and shielding, including a hyperdrive engine among the fastest in the galaxy, allowing it to outperform Imperial Star Destroyers. It included sensor-proof smuggling compartments, which were used during the rescue of Princess Leia Organa to evade Imperial stormtroopers.",
+            "eng": "El Halcón Milenario era un carguero ligero corelliano YT-1300 utilizado por los contrabandistas Han Solo y Chewbacca durante la Guerra Civil Galáctica. Su apariencia envejecida ocultaba numerosas modificaciones avanzadas para aumentar la velocidad, las armas y el escudo de la nave, incluido un motor hiperimpulsor entre los más rápidos de toda la galaxia, lo que le permitía superar a los Destructores Estelares Imperiales. Incluía compartimentos de contrabando a prueba de sensores, que se usaron durante el rescate de la Princesa Leia Organa para evadir a los soldados de asalto imperiales."
+    }},
+    {
+        "id": 3,
+        "name": "Inferno", 
+        "img": "./assets/images/inferno.jpg",
+        "description":{
+            "esp": "The Inferno was a light freighter piloted by the smuggler Vilmarh Grahrk. She was a solid and sturdy looking starship and was of much use to her owner during the last days of the Galactic Republic and the early days of the Galactic Empire.",
+            "eng": "El Inferno era un carguero ligero piloteado por el contrabandista Vilmarh Grahrk. Era un nave estelar de apariencia sólida y robusta y fue de mucha utilidad para su propietario durante los últimos días de la República Galáctica y los primeros días del Imperio Galáctico."
+    }}
+    ],
+    "planet": [
+    {
+        "id": 1, 
+        "name": "Corellia",
+        "img": "./assets/images/corellia.jpg",
+        "description":{
+            "esp": "Corellia era un planeta ubicado en los Mundos del Núcleo de la galaxia conocido por sus pilotos as y sus grandes naves estelares. En Corellia se construyeron naves como el Halcón Milenario y las naves estelares imperiales. Era el mundo natal de Han Solo, Qi'ra, Wedge Antilles, Crix Madine, BoShek, Besalisk Gadren, el oficial de registros ejecutivo Winshur Bratt, los cazarrecompensas Dengar y Mercurial Swift, los jóvenes Jedi Kalifa y Petro.",
+            "eng": "Corellia was a planet located in the galaxy's Core Worlds known for its ace pilots and large starships. Vessels such as the Millennium Falcon and Imperial starships were built on Corellia. It was the homeworld of Han Solo, Qi'ra, Wedge Antilles, Crix Madine, BoShek, the Besalisk Gadren, the Executive Records Officer Winshur Bratt, the bounty hunters Dengar and Mercurial Swift, the Jedi younglings Kalifa and Petro."
+    }},
+    {
+        "id": 2, 
+        "name": "Soccorro", 
+        "img": "./assets/images/soccorro.jpg", 
+        "description":{
+            "esp": "Soccorro era un planeta en los Territorios del Borde Exterior con reputación de refugio de contrabandistas. Era el mundo natal de Lando Calrissian. El planeta Socorro poseía una atmósfera respirable, gravedad estándar, un clima árido y un terreno que incluía oleaje negro del desierto, llanuras, áreas montañosas y áreas volcánicas. Los sótanos volcánicos inactivos de Socorro contenían reservas de agua naturalmente ocultas.",
+            "eng": "Soccorro was a planet in the Outer Rim Territories with a reputation as a smuggler haven. It was the homeworld of Lando Calrissian. The planet Socorro possessed a breathable atmosphere, standard gravity, an arid climate, and terrain that included black desert swells, flatlands, mountain areas, and volcanic areas. Socorro's dormant volcanic basements contained naturally-hidden reserves of water. "
+          }},
+    {
+        "id": 3, 
+        "name": "Devaron", 
+        "img": "./assets/images/devaron.jpg",
+        "description":{
+            "esp": "Devaron era un planeta terrestre ubicado en el sistema Devaron de las colonias de la galaxia que era el planeta natal de la especie devaroniano. Se caracterizaban por ser un planeta templado y muy boscoso con numerosos ríos y valles. Los espaciales devaronianos fueron reconocidos como una de las primeras especies en expandirse más allá de su propio mundo, ayudando a hacer grandes progresos en el campo de los viajes espaciales y la exploración.",
+            "eng": "Devaron was a terrestrial planet located in the Devaron system of the galaxy colonies that was the home planet of the Devaronian species. They were characterized by being a temperate and heavily forested planet with numerous rivers and valleys. The Devaronian Spacers were recognized as one of the first species to expand beyond their own world, helping to make great strides in the field of space travel and exploration."
+    }}
+      ]
+  }
