@@ -45,16 +45,16 @@
         "name": "Millenium Falcon", 
         "img": "./assets/images/millennium_falcon.jpg",
         "description":{
-            "esp": "The Millennium Falcon was a Corellian YT-1300 light freighter used by smugglers Han Solo and Chewbacca during the Galactic Civil War. Its aged appearance belied numerous advanced modifications to increase the ship's speed, weapons, and shielding allowing it to outperform Imperial Star Destroyers. ",
-            "eng": "El Halcón Milenario era un carguero ligero corelliano YT-1300 utilizado por los contrabandistas Han Solo y Chewbacca durante la Guerra Civil Galáctica. Su apariencia envejecida ocultaba numerosas modificaciones avanzadas para aumentar la velocidad, las armas y el escudo de la nave, lo que le permitía superar a los Destructores Estelares Imperiales. "
+            "eng": "The Millennium Falcon was a Corellian YT-1300 light freighter used by smugglers Han Solo and Chewbacca during the Galactic Civil War. Its aged appearance belied numerous advanced modifications to increase the ship's speed, weapons, and shielding allowing it to outperform Imperial Star Destroyers. ",
+            "esp": "El Halcón Milenario era un carguero ligero corelliano YT-1300 utilizado por los contrabandistas Han Solo y Chewbacca durante la Guerra Civil Galáctica. Su apariencia envejecida ocultaba numerosas modificaciones avanzadas para aumentar la velocidad, las armas y el escudo de la nave, lo que le permitía superar a los Destructores Estelares Imperiales. "
     }},
     {
         "id": 3,
         "name": "Inferno", 
         "img": "./assets/images/inferno.jpg",
         "description":{
-            "esp": "The Inferno was a light freighter piloted by the smuggler Vilmarh Grahrk. It was a solid and sturdy looking starship and was of much use to her owner during the last days of the Galactic Republic and the early days of the Galactic Empire.",
-            "eng": "El Inferno era un carguero ligero piloteado por el contrabandista Vilmarh Grahrk. Era un nave estelar de apariencia sólida y robusta y fue de mucha utilidad para su propietario durante los últimos días de la República Galáctica y los primeros días del Imperio Galáctico."
+            "eng": "The Inferno was a light freighter piloted by the smuggler Vilmarh Grahrk. It was a solid and sturdy looking starship and was of much use to her owner during the last days of the Galactic Republic and the early days of the Galactic Empire.",
+            "esp": "El Inferno era un carguero ligero piloteado por el contrabandista Vilmarh Grahrk. Era un nave estelar de apariencia sólida y robusta y fue de mucha utilidad para su propietario durante los últimos días de la República Galáctica y los primeros días del Imperio Galáctico."
     }}
     ],
     "planet": [
